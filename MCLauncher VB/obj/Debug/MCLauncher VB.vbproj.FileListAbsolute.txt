@@ -1,0 +1,24 @@
+C:\Users\Admin\AppData\Local\Temporary Projects\MCLauncher VB\bin\Debug\MCLauncher VB.exe.config
+C:\Users\Admin\AppData\Local\Temporary Projects\MCLauncher VB\bin\Debug\MCLauncher VB.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\MCLauncher VB\bin\Debug\MCLauncher VB.pdb
+C:\Users\Admin\AppData\Local\Temporary Projects\MCLauncher VB\bin\Debug\MCLauncher VB.xml
+C:\Users\Admin\AppData\Local\Temporary Projects\MCLauncher VB\obj\Debug\MCLauncher VB.vbprojAssemblyReference.cache
+C:\Users\Admin\AppData\Local\Temporary Projects\MCLauncher VB\obj\Debug\MCLauncher_VB.Resources.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\MCLauncher VB\obj\Debug\MCLauncher VB.vbproj.GenerateResource.cache
+C:\Users\Admin\AppData\Local\Temporary Projects\MCLauncher VB\obj\Debug\MCLauncher VB.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\AppData\Local\Temporary Projects\MCLauncher VB\obj\Debug\MCLauncher VB.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\MCLauncher VB\obj\Debug\MCLauncher VB.xml
+C:\Users\Admin\AppData\Local\Temporary Projects\MCLauncher VB\obj\Debug\MCLauncher VB.pdb
+C:\Users\Admin\AppData\Local\Temporary Projects\MCLauncher VB\obj\Debug\MCLauncher_VB.Form1.resources
+C:\Users\Admin\source\repos\MCLauncher VB\MCLauncher VB\bin\Debug\MCLauncher VB.exe.config
+C:\Users\Admin\source\repos\MCLauncher VB\MCLauncher VB\bin\Debug\MCLauncher VB.exe
+C:\Users\Admin\source\repos\MCLauncher VB\MCLauncher VB\bin\Debug\MCLauncher VB.pdb
+C:\Users\Admin\source\repos\MCLauncher VB\MCLauncher VB\bin\Debug\MCLauncher VB.xml
+C:\Users\Admin\source\repos\MCLauncher VB\MCLauncher VB\obj\Debug\MCLauncher VB.vbprojAssemblyReference.cache
+C:\Users\Admin\source\repos\MCLauncher VB\MCLauncher VB\obj\Debug\MCLauncher_VB.Form1.resources
+C:\Users\Admin\source\repos\MCLauncher VB\MCLauncher VB\obj\Debug\MCLauncher_VB.Resources.resources
+C:\Users\Admin\source\repos\MCLauncher VB\MCLauncher VB\obj\Debug\MCLauncher VB.vbproj.GenerateResource.cache
+C:\Users\Admin\source\repos\MCLauncher VB\MCLauncher VB\obj\Debug\MCLauncher VB.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MCLauncher VB\MCLauncher VB\obj\Debug\MCLauncher VB.exe
+C:\Users\Admin\source\repos\MCLauncher VB\MCLauncher VB\obj\Debug\MCLauncher VB.xml
+C:\Users\Admin\source\repos\MCLauncher VB\MCLauncher VB\obj\Debug\MCLauncher VB.pdb
